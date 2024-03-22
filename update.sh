@@ -1,8 +1,8 @@
-# Código desarrollado por @gata_dios 
+# Código desarrollado por @d.e.s.n_official17
   
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="NaufraZapp-MD"  
-BOT_REPO="https://github.com/Bots-WhatsApp-OFC/$BOT_DIR"
+BOT_DIR="SkanakiBot-MD"  
+BOT_REPO="https://github.com/Saldarriaga184/$BOT_DIR"
 DB_FILE="database.json"
  
 GREEN='\033[32m'
