@@ -2,7 +2,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h2 align="center">🌎 𝐍𝐀𝐔𝐅𝐑𝐀𝐙𝐀𝐏𝐏-𝐌𝐃 🌎</h2>
+<h2 align="center">🌎 𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17 🌎</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎/𝐀&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=30"/>
 
 [![Menu2.jpg](https://i.postimg.cc/3J8MnQnw/Menu2.jpg)](https://postimg.cc/3WcbxVMM)
@@ -35,11 +35,11 @@ pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD 
+git clone https://github.com/Saldarriaga184/SkanakiBot-MD 
 ```
 
 ```bash
-cd NaufraZapp-MD
+cd SkanakiBot-MD
 ```
 
 ```bash
@@ -66,7 +66,7 @@ cd
 ```
 
 ```bash
-cd NaufraZapp-MD
+cd SkanakiBot-MD
 ```
 
 ```bash
